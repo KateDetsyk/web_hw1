@@ -1,4 +1,7 @@
 function pentagonalNumber(n) {
+	if (typeof(n) != 'number') {
+		return "Argument must be number."
+	}
 	return ((3 * Math.pow(n, 2) - n) / 2);
 }
 
