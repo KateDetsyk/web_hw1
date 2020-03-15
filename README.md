@@ -1,4 +1,4 @@
-# web_hw1
+# web_hw1 task description :
 ## Reading
 ​
 - Variable hoisting - [https://medium.com/javascript-in-plain-english/https-medium-com-javascript-in-plain-english-what-is-hoisting-in-javascript-a63c1b2267a1](https://medium.com/javascript-in-plain-english/https-medium-com-javascript-in-plain-english-what-is-hoisting-in-javascript-a63c1b2267a1)
